@@ -1,2 +1,2 @@
-This is a simple sample File
-name = sample
+This is a sample text file.
+Do not do any changes
